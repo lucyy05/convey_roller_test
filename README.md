@@ -1,1 +1,1 @@
-Testing of conveyor and roller for vex robot.
+Testing of conveyor and roller motors for vex robot.
